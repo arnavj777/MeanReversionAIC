@@ -1,0 +1,10 @@
+redis
+pandas
+scikit-learn
+psycopg2-binary
+sqlalchemy
+refinitiv-data
+python-dotenv
+requests
+yfinance
+lxml

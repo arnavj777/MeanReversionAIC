@@ -1,0 +1,1 @@
+timestamp,ticker,signal,qty,signal_type,z_score,reference_price,buy_limit_price,sell_limit_price,status,reason,broker,order_id
